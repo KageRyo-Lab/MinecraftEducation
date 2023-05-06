@@ -59,4 +59,20 @@ agent.place("forward", 1)
 
 
 # 比較進階的做法
-agent.give("SANDSTONE", 64, 1) # 給 Agent 64個沙岩放在物品欄1
+# 在這裡編寫程式碼
+
+agent.give("SANDSTONE", 64, 1)
+
+for i in range(3):
+    agent.move("forward")
+    agent.place("back", 1)
+
+agent.move("up")
+agent.turn("left")
+agent.turn("left")
+agent.move("forward")
+agent.move("forward")
+
+agent.move("forward")
+agent.place("back", 1)
+
