@@ -39,7 +39,23 @@
 # 指導建築師如何使用 SANDSTONE 建造 2 層的金字塔
 
 # 比較簡單的做法
-agent.give("SANDSTONE", 64, 1) # 給 Agent 64個沙岩放在物品欄1
+# 在這裡編寫程式碼
+
+agent.give("SANDSTONE", 64, 1)
+agent.move("forward")
+agent.place("back", 1)
+agent.move("forward")
+agent.place("back", 1)
+agent.move("forward")
+agent.place("back", 1)
+agent.move("up")
+
+agent.turn("left")
+agent.turn("left")
+
+agent.move("forward")
+agent.place("forward", 1)
+
 
 
 # 比較進階的做法
