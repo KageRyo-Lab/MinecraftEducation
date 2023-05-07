@@ -1,7 +1,3 @@
-
-
-# 在這裡編寫程式碼
-
 agent.give("WHITE GLAZED TERRACOTTA", 64, 1)
 
 for i in range(5):

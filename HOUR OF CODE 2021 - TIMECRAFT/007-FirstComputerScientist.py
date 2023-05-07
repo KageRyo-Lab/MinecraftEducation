@@ -1,5 +1,4 @@
 # 在這裡編寫程式碼
-
 agent.move("forward")
 agent.destroy("down")
 agent.move("forward")

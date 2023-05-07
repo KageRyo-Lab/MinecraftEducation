@@ -3,9 +3,7 @@
 #agent.give("BONEBLOCK", 64, 1)
 #修改後
 #agent.give("BONE BLOCK", 64, 1)
-
 agent.give("BONE BLOCK", 64, 1)
-
 for i in range(4):
     agent.move("forward")
     agent.move("forward")

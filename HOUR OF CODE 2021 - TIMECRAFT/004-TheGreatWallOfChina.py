@@ -1,5 +1,3 @@
-
-
 #進階
 agent.give("BAMBOO", 64, 1)
 for i in range(5):

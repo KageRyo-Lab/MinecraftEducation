@@ -1,5 +1,4 @@
 # 在這裡編寫程式碼
-
 agent.give("DIRT", 64, 1)
 for i in range(2):
     agent.move("forward")
