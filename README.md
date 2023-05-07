@@ -24,3 +24,5 @@ for i in range(3):
 ## 一小時學程式
   
 在一小時學程式的單元中，可以透過簡單的關卡來學習 Python 程式的邏輯與設計，我會在資料夾當中放上不同關卡的解法與說明，以下是目前完成的關卡：
+- [TIMECRAFT](https://github.com/KageRyo/MinecraftEducation/tree/main/HOUR%20OF%20CODE%202021%20-%20TIMECRAFT)
+- - 官方連結：https://education.minecraft.net/en-us/lessons/hour-of-code-2021-timecraft
